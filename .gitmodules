@@ -1,0 +1,15 @@
+[submodule "theme"]
+	path = theme
+	url = https://github.com/louweal/hashpress.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/louweal/hashpress-docs.git
+[submodule "plugins/pay"]
+	path = plugins/pay
+	url = https://github.com/louweal/hashpress-pay.git
+[submodule "plugins/reviews"]
+	path = plugins/reviews
+	url = https://github.com/louweal/hashpress-reviews.git
+[submodule "plugins/core"]
+	path = plugins/core
+	url = https://github.com/louweal/hashpress-core.git
